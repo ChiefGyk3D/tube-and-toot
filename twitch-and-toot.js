@@ -1,4 +1,3 @@
-// Define a list of messages to be posted randomly when the streamer is live
 const mastodon = require("mastodon-api");
 const config = require("./config.json");
 const fs = require("fs");
